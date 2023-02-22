@@ -33,11 +33,7 @@
                 System.out.print(" *");
             }
             System.out.println();
-        }        
-        
-        
-        int num = 1000;
-        System.out.println(num<150);
+        }       
         
         
      
